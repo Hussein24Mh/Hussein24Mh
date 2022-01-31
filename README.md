@@ -22,7 +22,7 @@
 
 
 
-<img src="https://lh3.googleusercontent.com/IVk-ELOveZNtbLZUtU4Wy5D8loC-bNI7ujxEDRDw5-I2taHNOcvA0kK29oKctDhxk0Krqmhl56kNT4flQEXFEpDNLRJGiHP4zbGQrcYCoGwHDOnxioV-EkaMWq-NLqG953zQwkBdKyw5syWgObi-cvjyY5QADTkkJzjTsUWJjo5gRMCELQYY7CmBcx274jk1WcwUltRZy42PYrkiqLfBYqHHkE-mkpkWgj2xcfwutKnDSF8gBcctfAmr3KSXd7LBHNjZA6t_TOEiZkGnwB9nPELWULwsmLyK1EsDNFkGUWII0RfikCO_VbN1C-vCntoIe77AlWL0gXblQ06L8ovErz6_wbCYCBhW6PDKypg1LRobb-HHfe8sTuiYArZzPuYI1XJaLrhMGT_qt09-x4CDcSTx3up_n2AJ9UDi7kAbjlyKsJpc2ZL_95otTOBxi3ryCXD0BnM4qTqDaS5VpjS_9s_G1QqeJVSRxAVBj7wAd4jay2UQi-O5LprC3XSUQMuMSlCcMid2Bdl-4z26eCNiaJi9pNjtubBd5wkb8psNvfUAcLaUel6hSw4Vf-JYq6I1BCtRSQEC_D4L0hlW1Cu1_BP3qQYCWOAoqwNgrjP842WupKfqwK_OGoSxmju_X-8wUbKXfTzxN5EnO-576CMpw13rfwFsfqqG5qzswXIc2J6k1VKXZ4YrwYNO6481T7DBQ8A-V07Nu33A769UwdPV-l54=w1920-h576-no?authuser=0" alt="banner that says hussein mahmoud data scientist">
+<img src="Modern Wall Texture Monochrome Linkedin Banner.png" alt="banner that says hussein mahmoud data scientist">
 
 <img alt="Twitter" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussein24Mh" />
 
