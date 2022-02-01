@@ -12,6 +12,12 @@
 <img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 
+
+<a target="_blank" href="https://codeforces.com/profile/Hussein24Mh" target="_blank">
+<img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
+
+
 <a target="_blank" href="https://stackoverflow.com/users/17755285/hussein-mahmoud" target="_blank">
 <img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
