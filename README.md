@@ -22,15 +22,11 @@
 <img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
-<a target="_blank" href="https://twitter.com/Hussein24Mh" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
 
 
 <img src="Modern Wall Texture Monochrome Linkedin Banner.png" alt="banner that says hussein mahmoud data scientist">
 
-<img alt="Twitter" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussein24Mh" />
+<img alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussein24Mh" />
 
 <p>
 I am that "Algorithms" lover , In past I was always looking up for those problem-solving problems to imply my Logical Thinking and Code Skills on them 
