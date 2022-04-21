@@ -26,7 +26,9 @@
 
 <img src="Modern Wall Texture Monochrome Linkedin Banner.png" alt="banner that says hussein mahmoud data scientist">
 
-<img alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussein24Mh" />
+<img alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user={Hussein24Mh}" />
+
+
 
 <p>
 I am that "Algorithms" lover , In past I was always looking up for those problem-solving problems to imply my Logical Thinking and Code Skills on them 
