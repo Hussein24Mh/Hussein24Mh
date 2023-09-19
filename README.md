@@ -23,7 +23,6 @@
 
 
 <img alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussein24Mh" />
-<img src="Modern Wall Texture Monochrome Linkedin Banner.png" alt="banner that says hussein mahmoud data scientist">
 
 
 <p>
