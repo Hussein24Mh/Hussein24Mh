@@ -28,7 +28,7 @@
 <p>
 As a Software Engineer with over 5 years of experience, I specialize in delivering efficient, scalable solutions using the industry's most in-demand technologies.
 
-I'm proficient in Python, the leading language used in developing AI models.
+I'm proficient in Python, the leading language for developing AI models.
 
 Also, I am a skilled AI and machine learning engineer passionate about helping businesses solve their problems. I can help you build intelligent applications that automate tasks, improve decision-making, and generate new insights.
 
