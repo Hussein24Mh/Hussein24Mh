@@ -2,6 +2,12 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a target="_blank" href="https://stackoverflow.com/users/17755285/hussein24mh" target="_blank">
+<img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
+</br>
+
 <a target="_blank" href="https://www.kaggle.com/hussein24mh" target="_blank">
 <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
@@ -10,30 +16,22 @@
 <img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 
-
 <a target="_blank" href="https://codeforces.com/profile/Hussein24Mh" target="_blank">
 <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 </a>
 
 
-<a target="_blank" href="https://stackoverflow.com/users/17755285/hussein24mh" target="_blank">
-<img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-
-
-
-<img src="Modern Wall Texture Monochrome Linkedin Banner.png" alt="banner that says hussein mahmoud data scientist">
 
 <img alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussein24Mh" />
-
+<img src="Modern Wall Texture Monochrome Linkedin Banner.png" alt="banner that says hussein mahmoud data scientist">
 
 
 <p>
-I am that "Algorithms" lover , In past I was always looking up for those problem-solving problems to imply my Logical Thinking and Code Skills on them 
+As a Software Engineer with over 5 years of experience, I specialize in delivering efficient, scalable solutions using the industry's most in-demand technologies.
 
-Then I went further by learning the Data Science field
-started by advancing my Python and SQL knowledge,
-followed some Statistics, Probability, and Mathematics
+I'm proficient in Python, the leading language used in developing AI models.
 
-Now I am learning Machine learning and Deep learning Algorithms
+Also, I am a skilled AI and machine learning engineer passionate about helping businesses solve their problems. I can help you build intelligent applications that automate tasks, improve decision-making, and generate new insights.
+
+I am committed to providing high-quality software solutions that meet my client's needs by communicating clearly, meeting deadlines, and keeping them involved
 </p>
